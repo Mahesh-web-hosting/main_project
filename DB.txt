@@ -1,0 +1,10 @@
+create database resumeselection;
+use resumeselection;
+
+create table signup(email_id varchar(50), password varchar(50),
+contact_no varchar(12),
+name varchar(50),
+address varchar(50),
+usertype varchar(50));
+
+
